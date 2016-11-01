@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nex/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/support-v4-19.0.1-b7c8b9045b970c148329cc491843278f2b01cb34.jar" />
+    </item>
+    <item
+        jar="/home/nex/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-3c1a41f01c0cdb177ae962b75806021dc4fc9b97.jar" />
+    </item>
+    <item
+        jar="/home/nex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/a0990e2e812ac6639b6ce955c91b13228500476e/jackson-annotations-2.6.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a0990e2e812ac6639b6ce955c91b13228500476e">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.6.0-da8bab872b83786469f5e9c0a84af1573740d06f.jar" />
+    </item>
+    <item
+        jar="/home/nex/Documents/proyecto/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/classes-bcfbb0656daabfbcc42a2b1a480f9f5dedf011ef.jar" />
+    </item>
+    <item
+        jar="/home/nex/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6-2cf49bcccc228bc7a668dd26e3f43aa6897b99c5.jar" />
+    </item>
+    <item
+        jar="/home/nex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.3/5c4fcae53dd82e2c549b8322d78c6ff47c94c8a8/jackson-databind-2.6.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5c4fcae53dd82e2c549b8322d78c6ff47c94c8a8">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/jackson-databind-2.6.3-79c4b61a5896b220787ca9803ae650958e7b9e02.jar" />
+    </item>
+    <item
+        jar="/home/nex/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.22/473d784b3cd2dcb6d49a287ded0542b7862c7d68/freemarker-2.3.22.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="473d784b3cd2dcb6d49a287ded0542b7862c7d68">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/freemarker-2.3.22-47edde7e94c21b13af56d0978497b6a66c95cd0b.jar" />
+    </item>
+    <item
+        jar="/home/nex/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/2.0.0/5f49dd477c1621dfaf0f7fe5d755fe4f07526af2/greendao-2.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5f49dd477c1621dfaf0f7fe5d755fe4f07526af2">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/greendao-2.0.0-42a7a41153fabf01af850c3826fb290c2c5aabb7.jar" />
+    </item>
+    <item
+        jar="/home/nex/Documents/proyecto/dao/build/libs/dao.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cfb4ecd64a387cf6975a7fce7afd9cd8206db894">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/dao-ea93be7050f6b1c05961e9fda0088be0eae90eec.jar" />
+    </item>
+    <item
+        jar="/home/nex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.3/142ce64dcd709a4b5f6e7d71305a31d3893d077/jackson-core-2.6.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0142ce64dcd709a4b5f6e7d71305a31d3893d077">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/jackson-core-2.6.3-dfd4cf601a1f5bb3e34543592e795d1bae05ed1c.jar" />
+    </item>
+    <item
+        jar="/home/nex/Documents/proyecto/app/build/intermediates/exploded-aar/info.hoang8f/fbutton/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/classes-9370f27985727fdc38db6cb3967901d4c87e001e.jar" />
+    </item>
+    <item
+        jar="/home/nex/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao-generator/2.0.0/a76ca425c26c945a22d67f24d5b72bf29dbdf7a1/greendao-generator-2.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a76ca425c26c945a22d67f24d5b72bf29dbdf7a1">
+        <dex dex="/home/nex/Documents/proyecto/app/build/intermediates/pre-dexed/debug/greendao-generator-2.0.0-bc871930c6d782250062372aee36e8b3ba2ba19f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondotrivia"
+
+    >
+
+    <RelativeLayout
+
+        android:id="@+id/dibujo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:tileMode="repeat"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@+id/pager"
+        >
+
+        <TextView android:id="@+id/usuario1_nombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/user"
+            />
+        <TextView android:id="@+id/usuario2_nombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/usuario1_nombre"
+            android:drawableLeft="@drawable/user"
+            android:capitalize="characters"
+            />
+        <ImageView android:id="@+id/botondado"
+            android:layout_alignParentTop="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            />
+
+        
+        <TextView android:id="@+id/resultadodado"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/botondado"
+            android:layout_centerHorizontal="true"
+            android:textSize="20dp"/>
+        <info.hoang8f.widget.FButton
+            android:id="@+id/izquierda"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:layout_width="90dp"
+            android:layout_height="160dp"
+            android:layout_centerVertical="true"
+            android:visibility="gone"
+            android:layout_marginTop="160dp"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:drawableLeft="@drawable/left"
+            android:padding="5dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:paddingLeft="30dp"
+            />
+
+
+        <info.hoang8f.widget.FButton
+            android:id="@+id/derecha"
+            android:paddingLeft="30dp"
+            android:layout_gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:visibility="gone"
+            android:layout_width="90dp"
+            android:layout_height="160dp"
+            android:shadowColor="#A8A8A8"
+            android:drawableRight="@drawable/right"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="160dp"/>
+            />
+
+        <RelativeLayout android:id="@+id/pantalla"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerVertical="true"
+            android:layout_alignRight="@+id/botondado">
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
